@@ -1,0 +1,10 @@
+$ Apt update 
+$ Apt upgrade 
+$ Apt install python2
+$ Pip2 install urllibs charger certified 
+Request 
+$ Apt install open ssl curl
+$ Pkg install libcurl
+$  Lm-s/scard
+$ cd scard
+$ Python2 fb.py
